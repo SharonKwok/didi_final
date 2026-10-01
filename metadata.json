@@ -1,0 +1,6 @@
+{
+  "name": "Campaign Tracking Dashboard - DiDi Australia",
+  "description": "Executive cross-channel marketing intelligence and campaign tracking dashboard for Australia and New Zealand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
